@@ -1,0 +1,9 @@
+{
+  "id": "omniinbox",
+  "name": "OmniInbox",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "微信小程序记录单向同步到 Obsidian，写入位置与主页快速记录一致。",
+  "author": "昭之",
+  "isDesktopOnly": false
+}
